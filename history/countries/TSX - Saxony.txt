@@ -1,4 +1,4 @@
-capital = 18
+capital = 76
 
 set_politics = {
     ruling_party = neutrality
@@ -8,22 +8,23 @@ set_politics = {
 }
 
 set_stability = 0.55
-set_war_support = 0.45
+set_war_support = 0.35
 
 create_country_leader = {
-    name = "Louis XIII"
-    desc = "POLITICS_LOUIS_XIII_DESC"
-    picture = "GFX_portrait_FRA_louis_xiii"
-    expire = "1643.5.14"
-    ideology = neutrality_subtype
+    name = "Johann Georg I"
+    desc = "POLITICS_JOHANN_GEORG_DESC"
+    picture = "GFX_portrait_SAX_johann_georg"
+    expire = "1656.10.8"
+    ideology = despotism
     traits = { }
 }
 
 set_technology = {
     infantry_weapons = 1
     tech_support = 1
-    tech_engineers = 1
-    naval_mine_laying = 1
 }
 
-set_convoys = 60
+set_convoys = 10
+
+set_state_owner = 65
+add_state_core = 65

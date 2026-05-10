@@ -1,4 +1,4 @@
-capital = 75
+capital = 38
 
 set_politics = {
     ruling_party = neutrality
@@ -7,14 +7,14 @@ set_politics = {
     elections_allowed = no
 }
 
-set_stability = 0.45
-set_war_support = 0.30
+set_stability = 0.70
+set_war_support = 0.60
 
 create_country_leader = {
-    name = "Frederick V"
-    desc = "POLITICS_FREDERICK_V_DESC"
-    picture = "GFX_portrait_BOH_frederick_v"
-    expire = "1632.1.1"
+    name = "Gustav II Adolf"
+    desc = "POLITICS_GUSTAV_ADOLF_DESC"
+    picture = "GFX_portrait_SWE_gustav_adolf"
+    expire = "1632.11.6"
     ideology = despotism
     traits = { }
 }
@@ -25,7 +25,7 @@ set_technology = {
     tech_engineers = 1
 }
 
-set_convoys = 10
+set_convoys = 40
 
-set_state_owner = 9
-add_state_core = 9
+set_state_owner = 141
+add_state_core = 141

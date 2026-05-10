@@ -15,7 +15,7 @@ create_country_leader = {
     desc = "POLITICS_FERDINAND_II_DESC"
     picture = "GFX_portrait_HAB_ferdinand_ii"
     expire = "1637.2.15"
-    ideology = neutrality_subtype
+    ideology = despotism
     traits = { }
 }
 
@@ -26,3 +26,6 @@ set_technology = {
 }
 
 set_convoys = 20
+
+set_state_owner = 4
+add_state_core = 4
