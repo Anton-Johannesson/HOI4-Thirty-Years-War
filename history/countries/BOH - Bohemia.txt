@@ -1,0 +1,28 @@
+capital = 75
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1617.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_stability = 0.45
+set_war_support = 0.30
+
+create_country_leader = {
+    name = "Frederick V"
+    desc = "POLITICS_FREDERICK_V_DESC"
+    picture = "GFX_portrait_BOH_frederick_v"
+    expire = "1632.1.1"
+    ideology = neutrality_subtype
+    traits = { }
+}
+
+set_technology = {
+    infantry_weapons = 1
+    tech_support = 1
+    tech_engineers = 1
+}
+
+set_convoys = 10

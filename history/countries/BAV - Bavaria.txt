@@ -1,0 +1,27 @@
+capital = 81
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1617.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_stability = 0.60
+set_war_support = 0.40
+
+create_country_leader = {
+    name = "Maximilian I"
+    desc = "POLITICS_MAXIMILIAN_I_DESC"
+    picture = "GFX_portrait_BAV_maximilian_i"
+    expire = "1651.9.27"
+    ideology = neutrality_subtype
+    traits = { }
+}
+
+set_technology = {
+    infantry_weapons = 1
+    tech_support = 1
+}
+
+set_convoys = 10
