@@ -1,4 +1,4 @@
-capital = 6
+capital = 7
 
 set_politics = {
     ruling_party = neutrality
@@ -7,13 +7,13 @@ set_politics = {
     elections_allowed = no
 }
 
-set_stability = 0.65
+set_stability = 0.50
 set_war_support = 0.50
 
 create_country_leader = {
     name = "Maurice of Nassau"
-    desc = "POLITICS_MAURICE_NASSAU_DESC"
-    picture = "GFX_portrait_DUT_maurice_nassau"
+    desc = "POLITICS_MAURICE_OF_NASSAU_DESC"
+    picture = "GFX_portrait_DUT_maurice_of_nassau"
     expire = "1625.4.23"
     ideology = despotism
     traits = { }
@@ -24,7 +24,4 @@ set_technology = {
     tech_support = 1
 }
 
-set_convoys = 80
-
-set_state_owner = 7
-add_state_core = 7
+set_convoys = 50

@@ -21,9 +21,7 @@ create_country_leader = {
 
 set_technology = {
     infantry_weapons = 1
+    tech_support = 1
 }
 
 set_convoys = 10
-
-set_state_owner = 64
-add_state_core = 64

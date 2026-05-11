@@ -1,4 +1,4 @@
-capital = 38
+capital = 141
 
 set_politics = {
     ruling_party = neutrality
@@ -7,14 +7,14 @@ set_politics = {
     elections_allowed = no
 }
 
-set_stability = 0.70
-set_war_support = 0.60
+set_stability = 0.50
+set_war_support = 0.50
 
 create_country_leader = {
     name = "Gustav II Adolf"
-    desc = "POLITICS_GUSTAV_ADOLF_DESC"
-    picture = "GFX_portrait_SWE_gustav_adolf"
-    expire = "1632.11.6"
+    desc = "POLITICS_GUSTAV_II_ADOLF_DESC"
+    picture = "GFX_portrait_TSW_gustav_ii_adolf"
+    expire = "1632.11.16"
     ideology = despotism
     traits = { }
 }
@@ -22,10 +22,6 @@ create_country_leader = {
 set_technology = {
     infantry_weapons = 1
     tech_support = 1
-    tech_engineers = 1
 }
 
-set_convoys = 40
-
-set_state_owner = 141
-add_state_core = 141
+set_convoys = 50

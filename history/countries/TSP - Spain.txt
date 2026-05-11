@@ -1,4 +1,4 @@
-capital = 170
+capital = 41
 
 set_politics = {
     ruling_party = neutrality
@@ -7,14 +7,14 @@ set_politics = {
     elections_allowed = no
 }
 
-set_stability = 0.60
-set_war_support = 0.55
+set_stability = 0.50
+set_war_support = 0.50
 
 create_country_leader = {
-    name = "Philip III"
-    desc = "POLITICS_PHILIP_III_DESC"
-    picture = "GFX_portrait_SPA_philip_iii"
-    expire = "1621.3.31"
+    name = "Philip IV"
+    desc = "POLITICS_PHILIP_IV_DESC"
+    picture = "GFX_portrait_TSP_philip_iv"
+    expire = "1665.9.17"
     ideology = despotism
     traits = { }
 }
@@ -22,10 +22,4 @@ create_country_leader = {
 set_technology = {
     infantry_weapons = 1
     tech_support = 1
-    tech_engineers = 1
 }
-
-set_convoys = 100
-
-set_state_owner = 41
-add_state_core = 41

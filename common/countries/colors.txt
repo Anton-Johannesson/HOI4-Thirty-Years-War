@@ -1,0 +1,54 @@
+BAV = {
+    color    = rgb { 76 128 204 }
+    color_ui = rgb { 76 128 204 }
+}
+
+TDN = {
+    color    = rgb { 217 26 38 }
+    color_ui = rgb { 217 26 38 }
+}
+
+TFR = {
+    color    = rgb { 51 76 191 }
+    color_ui = rgb { 51 76 191 }
+}
+
+TBR = {
+    color    = rgb { 178 178 178 }
+    color_ui = rgb { 178 178 178 }
+}
+
+BOH = {
+    color    = rgb { 204 51 26 }
+    color_ui = rgb { 204 51 26 }
+}
+
+DUT = {
+    color    = rgb { 255 153 0 }
+    color_ui = rgb { 255 153 0 }
+}
+
+HAB = {
+    color    = rgb { 230 191 26 }
+    color_ui = rgb { 230 191 26 }
+}
+
+SAX = {
+    color    = rgb { 128 191 76 }
+    color_ui = rgb { 128 191 76 }
+}
+
+TPL = {
+    color    = rgb { 153 76 178 }
+    color_ui = rgb { 153 76 178 }
+}
+
+TSP = {
+    color    = rgb { 217 153 26 }
+    color_ui = rgb { 217 153 26 }
+}
+
+TSW = {
+    color    = rgb { 38 115 191 }
+    color_ui = rgb { 38 115 191 }
+}

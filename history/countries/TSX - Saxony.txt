@@ -1,4 +1,4 @@
-capital = 76
+capital = 65
 
 set_politics = {
     ruling_party = neutrality
@@ -7,13 +7,13 @@ set_politics = {
     elections_allowed = no
 }
 
-set_stability = 0.55
-set_war_support = 0.35
+set_stability = 0.50
+set_war_support = 0.50
 
 create_country_leader = {
-    name = "Johann Georg I"
-    desc = "POLITICS_JOHANN_GEORG_DESC"
-    picture = "GFX_portrait_SAX_johann_georg"
+    name = "John George I"
+    desc = "POLITICS_JOHN_GEORGE_I_DESC"
+    picture = "GFX_portrait_SAX_john_george_i"
     expire = "1656.10.8"
     ideology = despotism
     traits = { }
@@ -23,8 +23,3 @@ set_technology = {
     infantry_weapons = 1
     tech_support = 1
 }
-
-set_convoys = 10
-
-set_state_owner = 65
-add_state_core = 65
