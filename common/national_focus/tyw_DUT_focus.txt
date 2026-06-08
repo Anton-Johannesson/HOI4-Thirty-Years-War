@@ -1,0 +1,14 @@
+focus_tree = {
+    id = DUT_focus
+    country = { factor = 0 modifier = { add = 10 tag = DUT } }
+    default = no
+
+    focus = {
+        id = DUT_eighty_years_war
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

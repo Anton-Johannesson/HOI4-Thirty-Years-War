@@ -1,0 +1,14 @@
+focus_tree = {
+    id = HAB_focus
+    country = { factor = 0 modifier = { add = 10 tag = HAB } }
+    default = no
+
+    focus = {
+        id = HAB_crush_bohemia
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

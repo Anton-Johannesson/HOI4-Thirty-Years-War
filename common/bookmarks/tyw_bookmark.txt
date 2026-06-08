@@ -1,0 +1,6 @@
+bookmarks = {
+    bookmark = {
+        name = "TYW_BOOKMARK_NAME"
+        date = "1618.5.23"
+    }
+}

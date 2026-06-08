@@ -1,0 +1,14 @@
+focus_tree = {
+    id = TDN_focus
+    country = { factor = 0 modifier = { add = 10 tag = TDN } }
+    default = no
+
+    focus = {
+        id = TDN_danish_intervention
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

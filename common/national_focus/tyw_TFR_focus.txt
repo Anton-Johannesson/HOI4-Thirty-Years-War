@@ -1,0 +1,14 @@
+focus_tree = {
+    id = TFR_focus
+    country = { factor = 0 modifier = { add = 10 tag = TFR } }
+    default = no
+
+    focus = {
+        id = TFR_richelieu_rise
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

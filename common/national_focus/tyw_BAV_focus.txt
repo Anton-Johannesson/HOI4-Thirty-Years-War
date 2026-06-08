@@ -1,0 +1,14 @@
+focus_tree = {
+    id = BAV_focus
+    country = { factor = 0 modifier = { add = 10 tag = BAV } }
+    default = no
+
+    focus = {
+        id = BAV_maximilian_leadership
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

@@ -1,0 +1,14 @@
+focus_tree = {
+    id = TBR_focus
+    country = { factor = 0 modifier = { add = 10 tag = TBR } }
+    default = no
+
+    focus = {
+        id = TBR_hohenzollern_dynasty
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 10
+        completion_reward = {}
+    }
+}

@@ -1,0 +1,3 @@
+tyw_political_decisions = {
+    # Placeholder decisions for the Thirty Years' War mod
+}

@@ -1,0 +1,7 @@
+ideologies = {
+    neutrality = {
+        types = {
+        }
+        color = { 0.5 0.5 0.5 }
+    }
+}
